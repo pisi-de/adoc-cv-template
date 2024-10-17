@@ -1,0 +1,76 @@
+:doctype: article
+:notitle:
+:pdf-page-size: A4
+:pdf-page-layout: portrait
+:pdf-page-mode: none
+:imagesdir: ./images
+:media: print
+
+[discrete]
+= CURRICULUM VITAE
+
+image::Johann_Sebastian_Bach.png[float='right',pdfwidth='90']
+
+[.large]
+Johann Sebastian Bach
+
+{nbsp}{nbsp}{nbsp}{nbsp}+++*+++{nbsp}{nbsp}1685-03-21
+
+{nbsp}{nbsp}image:mail.svg[15,15]{nbsp}{nbsp}Thomaskirchhof 18, 04109 Leipzig +
+{nbsp}{nbsp}image:phone.svg[15,15]{nbsp}{nbsp}+49(0)341 123 456 789 +
+{nbsp}{nbsp}image:email.svg[15,15]{nbsp}{nbsp}\jsb@thomaskirche.org
+
+[discrete]
+== Work Experience
+
+[horizontal]
+1723–1750:: **Music Director** at __St. Thomas Church, Leipzig__ +
+    Directed and composed music for church services and special occasions.
+    Led the St. Thomas Boys Choir in numerous performances.
+    Composed over 200 cantatas, the Mass in B minor, and many of his great passions.
+
+1717–1723:: **Court Composer and Director of Music** for __Prince Leopold of Anhalt-Köthen__ +
+    Composed instrumental music including the Brandenburg Concertos and suites.
+    Conducted the court orchestra in performances and rehearsals.
+
+1708–1717:: **Director of Music** at __The ducal court in Weimar__ +
+    Composed numerous organ works and established himself as a leading organist.
+    Served as concertmaster, directing the court orchestra.
+
+1707–1708:: **Organist** at __The Divii Blasii Church in Mühlhausen__ +
+    Composed church cantatas and instrumental pieces.
+    Improved the organ and the choir's performance.
+
+1703-1707:: **Organist** at __The new Church in Arnstadt__
+
+<<<
+
+[discrete]
+== Education
+
+[horizontal]
+1700-1702::
+    St. Michael's School in Lüneburg
+
+1695-1699::
+    Lyzeum in Ohrdruff
+
+[discrete]
+== Professional Expertise
+
+[horizontal]
+Composition:: Organ, Concertos, Kantatas, a capella works, Chamber Music
+Conducting:: Orchestra and Choir
+Instruments:: Clavichord, Cembalo, Organ, Violin
+
+[discrete]
+== Languages
+
+* German (native speaker)
+* Latin (proficient)
+* Greek
+
+[discrete]
+== Personal Interests
+
+Soli deo gloria

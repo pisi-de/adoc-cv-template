@@ -1,0 +1,36 @@
+extends: default
+
+heading-h1:
+  margin-top: 8
+  margin-bottom: 4
+  font-size: 14
+  text-align: center
+
+heading-h2:
+  margin-top: 4
+  margin-bottom: 8
+  font-size: 14
+
+heading-h3:
+  margin-top: 0
+  margin-bottom: 0
+  font-size: $base-font-size
+  text-align: center
+
+role:
+  large:
+    font-size: $heading-h1-font-size
+    font-style: bold
+    margin-bottom: 0
+
+footer:
+  font-color: "#707070"
+  font-size: 8
+  recto:
+    center_content: 'Johann Sebastian Bach CV'
+    right_content: 'Page {page-number} of {page-count}'
+  verso:
+    left_content: ~
+    center_content: $footer-recto-center-content
+    right_content: $footer-recto-right-content
+
